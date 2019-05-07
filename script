@@ -1,0 +1,18 @@
+#This begins when you're already dead in the transcription
+KeyPress "Esc", 1
+Delay 1000
+KeyPress "Esc", 1
+MoveTo 719, 418
+LeftClick 1
+Delay 1000
+KeyPress "Enter", 1
+Delay 1000
+MoveTo 801, 472
+LeftClick 1
+Delay 1000
+MoveTo 624, 566
+LeftClick 1
+Delay 1000
+MoveTo 750, 373
+LeftClick 1
+Delay 1000
